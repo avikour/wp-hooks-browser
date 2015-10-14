@@ -30,7 +30,7 @@ WP Hook Browser is a great debugging tool which will save you from hours of hair
 
 1. List Of all defined actions in your wordpress installation
 2. List of defined filters of a plugin (woocommerce)
-2. List of used actions in a theme
+3. List of used actions in a theme
 
 == Changelog ==
 
