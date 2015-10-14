@@ -1,0 +1,76 @@
+
+
+h2.hb-page-heading {
+    border-bottom: 2px solid #dadada;
+    color: #666666;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    margin-top: 0;
+    padding-bottom: 2px;
+}
+
+
+.hb-label {
+    color: #666666;
+    display: inline-block;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 0;
+}
+.hb-field-wrap {
+    display: inline-block;
+    margin: 0 15px;
+    padding: 5px;
+}
+
+.hb-hooks-list {
+    background: none repeat scroll 0 0 #ffffff;
+    padding: 5px;
+}
+
+.hb-file-wrap {
+    background: none repeat scroll 0 0 #fefefe;
+    box-shadow: -1px 1px 3px #999999;
+    margin: 20px 10px;
+    padding: 20px;
+}
+
+
+
+.hb-hook-type {
+    color: #666666;
+    font-size: 1.4em;
+    font-style: oblique;
+    font-weight: bold;
+    padding: 15px 0 5px;
+}
+
+.hb-path-chunk {
+    background: none repeat scroll 0 0 #ececec;
+    box-shadow: 0 1px 1px #111111;
+    display: inline-block;
+    font-style: oblique;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 10px 1px;
+    padding: 4px;
+}
+
+
+.hb-hook-name {
+    color: #21759b;
+    font-size: 1.1em;
+    letter-spacing: 1px;
+    padding: 3px 0;
+}
+
+.hb-file-path {
+    margin: 0 -3px;
+}
+
+.hb-path-chunk:last-child {
+    display: none;
+}
